@@ -127,3 +127,17 @@ GitHub
 GitHub Actions
 
 Swagger
+
+# GitHub and CI/CD
+
+GitHub is used for version control and project submission.
+
+A GitHub Actions workflow is required to validate the repository
+structure and confirm that the required planning documents are available
+in the /docs folder.
+
+## CI/CD Screenshot
+
+Add the screenshot of the successful GitHub Actions run to the
+repository and reference it here:
+
