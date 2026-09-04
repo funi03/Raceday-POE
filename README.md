@@ -130,8 +130,6 @@ Swagger
 
 # GitHub and CI/CD
 
-
-### Also change your CI/CD section
 ## CI/CD
 
 GitHub Actions is used to automatically validate the RaceDay project repository. 
@@ -163,7 +161,7 @@ How the planning documents support the Part 2 implementation
 
 # YouTube Link
 
-Replace the placeholder below with your unlisted YouTube video link:
+https://youtu.be/kjC4oFZKeo0
 
 
 # Repository Structure
