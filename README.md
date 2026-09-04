@@ -158,8 +158,6 @@ The SQL database design
 
 Running the SQL script in SQL Server Management Studio (SSMS)
 
-How the planning documents support the Part 2 implementation
-
 # YouTube Link
 
 https://youtu.be/kjC4oFZKeo0
