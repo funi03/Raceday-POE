@@ -130,11 +130,16 @@ Swagger
 
 # GitHub and CI/CD
 
-GitHub is used for version control and project submission.
 
-A GitHub Actions workflow is required to validate the repository
-structure and confirm that the required planning documents are available
-in the /docs folder.
+### Also change your CI/CD section
+## CI/CD
+
+GitHub Actions is used to automatically validate the RaceDay project repository. 
+The workflow checks that the submitted Part 1 PDF is present in the repository.
+
+The workflow is triggered when changes are pushed to the main branch or when a pull request is created.
+
+A successful workflow run confirms that the required project documentation is available.
 
 ## CI/CD Screenshot
 
