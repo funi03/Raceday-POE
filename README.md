@@ -138,6 +138,24 @@ in the /docs folder.
 
 ## CI/CD Screenshot
 
-Add the screenshot of the successful GitHub Actions run to the
-repository and reference it here:
 
+
+# Project Demonstration Video
+
+The unlisted YouTube walkthrough should demonstrate:
+
+The RaceDay planning documents
+
+The ERD decisions and relationships
+
+The API endpoint choices
+
+The SQL database design
+
+Running the SQL script in SQL Server Management Studio (SSMS)
+
+How the planning documents support the Part 2 implementation
+
+# YouTube Link
+
+Replace the placeholder below with your unlisted YouTube video link:
