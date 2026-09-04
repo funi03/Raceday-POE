@@ -89,3 +89,24 @@ The ERD, API endpoint plan and SQL database script are intended to
 remain consistent with one another and provide the basis for Part 2
 implementation.
 
+# API Endpoint Plan
+
+The planned RESTful API includes endpoints for:
+
+User registration and login
+
+User profiles
+
+RaceDay events
+
+Event categories
+
+Event enrolments
+
+Event results
+
+The API uses role-based access. Public users can register, log in and
+view available event information. Participants can manage their own
+enrolments and results, while Organisers manage events, categories,
+enrolments and results.
+
