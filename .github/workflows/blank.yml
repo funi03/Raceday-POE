@@ -15,17 +15,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Check docs folder
+      - name: Check PDF document
         run: |
           test -d docs
-          test -f docs/RaceDay_ERD.png
-          test -f docs/RaceDay_API_Endpoint_Plan.md
-          test -f docs/RaceDay_Database.sql
+          test -f docs/poe.pdf
 
       - name: Validation successful
-        run: echo "All required RaceDay documents are present."
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+        run: echo "RaceDay project documentation is present."
