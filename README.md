@@ -159,3 +159,18 @@ How the planning documents support the Part 2 implementation
 # YouTube Link
 
 Replace the placeholder below with your unlisted YouTube video link:
+
+
+# Repository Structure
+
+```text
+Raceday-POE/
+│
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+│
+├── PROG PART 1.pdf
+│
+└── README.md
+
