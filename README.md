@@ -68,3 +68,24 @@ The SQL script defines primary keys, foreign keys, required fields,
 unique constraints and validation constraints. Sample data is also
 included for organisers, participants, events, categories, enrolments
 and results.
+
+# Planning Documents
+
+All planning documents are stored in the /docs folder.
+
+The folder contains:
+
+RaceDay_ERD.png - Entity Relationship Diagram for the RaceDay
+database.
+
+RaceDay_API_Endpoint_Plan.md - RESTful API endpoint plan covering
+authentication, profiles, events, categories, enrolments and
+results.
+
+RaceDay_Database.sql - SQL Server database creation and
+sample-data script.
+
+The ERD, API endpoint plan and SQL database script are intended to
+remain consistent with one another and provide the basis for Part 2
+implementation.
+
