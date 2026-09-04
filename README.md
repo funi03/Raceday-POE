@@ -57,3 +57,14 @@ View their own enrolments
 Cancel their enrolments
 
 View their own results
+
+# Database Design
+
+The RaceDay database is implemented using Microsoft SQL Server. The
+database contains the entities required for users, organisers,
+participants, events, categories, event enrolments and results.
+
+The SQL script defines primary keys, foreign keys, required fields,
+unique constraints and validation constraints. Sample data is also
+included for organisers, participants, events, categories, enrolments
+and results.
