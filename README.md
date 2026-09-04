@@ -166,7 +166,7 @@ https://youtu.be/kjC4oFZKeo0
 
 # Repository Structure
 
-```text
+
 Raceday-POE/
 │
 ├── .github/
