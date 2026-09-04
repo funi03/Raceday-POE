@@ -162,7 +162,6 @@ Running the SQL script in SQL Server Management Studio (SSMS)
 
 https://youtu.be/kjC4oFZKeo0
 
-
 # Repository Structure
 
 
@@ -182,9 +181,6 @@ The project follows a planning-first approach. The ERD defines the
 database structure, the API endpoint plan defines the functionality
 exposed by the RESTful API, and the SQL script implements the planned
 database structure in SQL Server.
-
-These planning documents are intended to guide the Part 2 ASP.NET Core
-Web API implementation.
 
 # References
 
