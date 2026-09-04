@@ -15,10 +15,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Check PDF document
+      - name: Check Part 1 PDF
         run: |
-          test -d docs
-          test -f docs/poe.pdf
+          test -f "PROG PART 1.pdf"
 
       - name: Validation successful
-        run: echo "RaceDay project documentation is present."
+        run: echo "RaceDay Part 1 PDF is present."
