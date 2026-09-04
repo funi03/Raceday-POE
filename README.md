@@ -141,6 +141,7 @@ A successful workflow run confirms that the required project documentation is av
 
 ## CI/CD Screenshot
 
+<img width="1899" height="886" alt="workflow" src="https://github.com/user-attachments/assets/2c4a3872-1a84-43e1-8b84-d8ee8163522a" />
 
 
 # Project Demonstration Video
