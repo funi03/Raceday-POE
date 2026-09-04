@@ -110,3 +110,20 @@ view available event information. Participants can manage their own
 enrolments and results, while Organisers manage events, categories,
 enrolments and results.
 
+# Technologies
+
+C#
+
+ASP.NET Core Web API
+
+Entity Framework Core
+
+Microsoft SQL Server
+
+SQL Server Management Studio (SSMS)
+
+GitHub
+
+GitHub Actions
+
+Swagger
